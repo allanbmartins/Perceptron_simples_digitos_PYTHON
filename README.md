@@ -1,0 +1,2 @@
+# Perceptron_simples_digitos
+ALGORITMO PARA CÁLCULO DO PERCEPTRON SIMPLES
