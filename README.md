@@ -1,4 +1,4 @@
-# Perceptron_simples_digitos
+# Perceptron_simples_digitos - PYTHON
 ALGORITMO PARA CÁLCULO DO PERCEPTRON SIMPLES - PYTHON
 INSTRUÇÕES
 1- Este algoritmo pode usar a quantidade de entradas que quiser e a quantidade de amostras também que quiser, contanto que mantenha o 1º elemento sendo o Baias e o restante os itens Xn. A mesma estrutura para a amostra de teste.
